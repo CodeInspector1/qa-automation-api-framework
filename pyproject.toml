@@ -5,4 +5,3 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "reqres-api-tests"
 version = "0.1.0"
-description = "API tests for ReqRes.in"
